@@ -8,7 +8,7 @@
 * [MJML Docs](https://documentation.mjml.io/)
 * [MJML CLI Docs](https://github.com/mjmlio/mjml/blob/master/packages/mjml-cli/README.md)
 
-<h2 style="font-weight: bold;">Requirments</h2>
+<h2 style="font-weight: bold;">Requirements</h2>
 
 - Node
 - npm
