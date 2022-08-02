@@ -35,7 +35,7 @@ Here're some of the project's best features:
 <p>2. install all dependencies</p>
 
 ```
-npm install
+npm ci
 ```
 
 <p>3. build a HTML file from mjml file.</p>
